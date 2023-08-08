@@ -70,7 +70,7 @@ To run this implementation, you need:
 Here's a brief example of how to run the code:
 
 ```bash
-git clone https://github.com/yourusername/game-of-life-python.git
+git clone https://github.com/joethesaint/game-of-life-python.git
 cd game-of-life-python
 python3 game_of_life.py
 ```
